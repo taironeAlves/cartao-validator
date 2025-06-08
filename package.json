@@ -1,0 +1,19 @@
+{
+  "name": "cartao-validator",
+  "version": "1.0.0",
+  "description": "Projeto para validar bandeiras de cartões de crédito.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "cartão",
+    "validação",
+    "bandeira",
+    "credito"
+  ],
+  "author": "",
+  "license": "ISC"
+}
