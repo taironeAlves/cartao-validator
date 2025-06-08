@@ -4,10 +4,12 @@
   "description": "Projeto para validar bandeiras de cartões de crédito.",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "test": "jest"
   },
-  "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
   "keywords": [
     "cartão",
     "validação",
